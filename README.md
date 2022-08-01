@@ -1,7 +1,7 @@
 # Stage 0
 
 ## General
-- [ ] 1. Git Basic
+- [ ] 1. Git Basic 
 - [ ] 2. Linux CLI and Networking
 - [ ] 3. VCS, GitHub and Collaborating
 
@@ -20,3 +20,17 @@
 - [ ] 5. Memory pair game
 - [ ] 6. Website Perfomance Optimization 
 - [ ] 7. Friends APP
+
+### 1. Git Basic 
+<details><summary>coursera git 1 week</summary> 
+  ![coursera git 1 week](/git-basic/courcera-git-1-week.png)
+</details>
+<details><summary>coursera git 2 week</summary> 
+  ![coursera git 1 week](/git-basic/courcerra-git-2week.png-week.png)
+</details>
+<details><summary>learn git branch basic</summary> 
+  ![coursera git 1 week](/git-basic/learnGitBranch1.png)
+</details>
+<details><summary>learn git branch remote</summary> 
+  ![coursera git 1 week](/git-basic/learnGitBranch2.png)
+</details>
