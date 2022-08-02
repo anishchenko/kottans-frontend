@@ -1,7 +1,7 @@
 # Stage 0
 
 ## General
-- [X] 1. Git Basic 
+- [X] 1. [Git Basic](#1-git-basic) 
 - [ ] 2. Linux CLI and Networking
 - [ ] 3. VCS, GitHub and Collaborating
 
