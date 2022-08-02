@@ -2,7 +2,7 @@
 
 ## General
 - [X] 1. [Git Basic](#1-git-basic) 
-- [ ] 2. Linux CLI and Networking
+- [X] 2. [Linux CLI and Networking](#2-linux-cli-and-networking)
 - [ ] 3. VCS, GitHub and Collaborating
 
 ## Front-End Basic
@@ -48,3 +48,29 @@ I am not sure that I fully understood all the concepts presented in this course,
 </details>
 
  ---
+
+ ### 2. Linux CLI and Networking
+
+ ###  _Linux Survival_
+ It was very interesting to take this course, some commands were already known to me, but I am sure that this course was useful for me
+<details><summary>quiz 1</summary> 
+
+  ![linux survival quiz 1](task-linux-cli/quiz1.png)
+</details>
+<details><summary>quiz 2</summary> 
+
+  ![linux survival quiz 2](task-linux-cli/quiz2.png)
+</details>
+<details><summary>quiz 3</summary> 
+
+  ![linux survival quiz 3](task-linux-cli/quiz3.png)
+</details>
+<details><summary>quiz 4</summary> 
+
+  ![linux survival quiz 4](task-linux-cli/quiz4.png)
+</details>
+
+ ###  _Networking_
+ I hope that the concepts presented in these articles will become more clear during further work
+
+---
