@@ -3,7 +3,7 @@
 ## General
 - [X] 1. [Git Basic](#1-git-basic) 
 - [X] 2. [Linux CLI and Networking](#2-linux-cli-and-networking)
-- [ ] 3. VCS, GitHub and Collaborating
+- [X] 3. [VCS, GitHub and Collaborating](#3-git-collaboration)
 
 ## Front-End Basic
 - [ ] 1. Intro to HTML & CSS
@@ -72,5 +72,26 @@ I am not sure that I fully understood all the concepts presented in this course,
 
  ###  _Networking_
  I hope that the concepts presented in these articles will become more clear during further work
+
+---
+
+### 3. GIT Collaboration
+I will return to these lessons later to consolidate my knowledge
+<details><summary>coursera git 3 week</summary> 
+
+  ![coursera git 3 week](task-git-colaboration/coursera-3-week.png)
+</details>
+<details><summary>coursera git 4 week</summary> 
+
+  ![coursera git 4 week](task-git-colaboration/coursera-4-week.png)
+</details>
+<details><summary>learn git branch basic</summary> 
+
+  ![learn git branch basic](git-basic/learnGitBranch1.png)
+</details>
+<details><summary>learn git branch remote</summary> 
+
+  ![learn git branch remote](git-basic/learnGitBranch2.png)
+</details>
 
 ---
