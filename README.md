@@ -6,7 +6,7 @@
 - [X] 3. [VCS, GitHub and Collaborating](#3-git-collaboration)
 
 ## Front-End Basic
-- [ ] 1. Intro to HTML & CSS
+- [X] 1. [Intro to HTML & CSS](#1-intro-to-html-and-css)
 - [ ] 2. Responsive Web Design
 - [ ] 3. HTML & CSS Practice
 - [ ] 4. JavaScipt Basics
@@ -21,7 +21,10 @@
 - [ ] 6. Website Perfomance Optimization 
 - [ ] 7. Friends APP
 
-### 1. Git Basic 
+---
+## **General** 
+
+### **1. Git Basic**
 ###  _Coursera course_
 
 Course in coursera was very usefull for me. I learned the basic commands to do with GIT
@@ -45,12 +48,9 @@ I am not sure that I fully understood all the concepts presented in this course,
 <details><summary>learn git branch remote</summary> 
 
   ![learn git branch remote](git-basic/learnGitBranch2.png)
-</details>
+</details>    
 
- ---
-
- ### 2. Linux CLI and Networking
-
+ ### **2. Linux CLI and Networking**
  ###  _Linux Survival_
  It was very interesting to take this course, some commands were already known to me, but I am sure that this course was useful for me
 <details><summary>quiz 1</summary> 
@@ -73,9 +73,7 @@ I am not sure that I fully understood all the concepts presented in this course,
  ###  _Networking_
  I hope that the concepts presented in these articles will become more clear during further work
 
----
-
-### 3. GIT Collaboration
+### **3. GIT Collaboration**
 I will return to these lessons later to consolidate my knowledge
 <details><summary>coursera git 3 week</summary> 
 
@@ -95,3 +93,26 @@ I will return to these lessons later to consolidate my knowledge
 </details>
 
 ---
+
+## **Front-End Basic**
+
+### **1. Intro to HTML and CSS**
+
+I already knew all the topics, but it was useful to repeat the semantic tags and positioning of elements
+### _Coursera HTML, CSS, and Javascript for Web Developers_
+
+<details><summary>week 1</summary>
+
+![week1](task_html_css_intro/coursera-1-week.png)
+</details>
+
+<details><summary>week 2</summary>
+
+![week2](task_html_css_intro/coursera-2-week.png)
+</details>
+
+### _CodeCademy Learn HTML&CSS_
+<details><summary>Learn HTML&CSS</summary>
+
+![week1](task_html_css_intro/CodeCademy_IntroHTML%26CSS.png)
+</details>
