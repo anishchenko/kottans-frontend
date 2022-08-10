@@ -25,7 +25,7 @@
 ## **General** 
 
 ### **1. Git Basic**
-###  _Coursera course_
+###  Coursera course
 
 Course in coursera was very usefull for me. I learned the basic commands to do with GIT
 <details><summary>coursera git 1 week</summary> 
@@ -37,7 +37,7 @@ Course in coursera was very usefull for me. I learned the basic commands to do w
   ![coursera git 2 week](git-basic/coursera-git-2-week.png)
 </details>
 
-### _learnGitBranch_
+### learnGitBranch
 
 I am not sure that I fully understood all the concepts presented in this course, but I hope that everything will become clearer with practice
 
@@ -51,7 +51,7 @@ I am not sure that I fully understood all the concepts presented in this course,
 </details>    
 
  ### **2. Linux CLI and Networking**
- ###  _Linux Survival_
+ ###  Linux Survival
  It was very interesting to take this course, some commands were already known to me, but I am sure that this course was useful for me
 <details><summary>quiz 1</summary> 
 
@@ -70,7 +70,7 @@ I am not sure that I fully understood all the concepts presented in this course,
   ![linux survival quiz 4](task-linux-cli/quiz4.png)
 </details>
 
- ###  _Networking_
+ ###  Networking
  I hope that the concepts presented in these articles will become more clear during further work
 
 ### **3. GIT Collaboration**
@@ -99,7 +99,7 @@ I will return to these lessons later to consolidate my knowledge
 ### **1. Intro to HTML and CSS**
 
 I already knew all the topics, but it was useful to repeat the semantic tags and positioning of elements
-### _Coursera HTML, CSS, and Javascript for Web Developers_
+### Coursera HTML, CSS, and Javascript for Web Developers
 
 <details><summary>week 1</summary>
 
@@ -111,7 +111,7 @@ I already knew all the topics, but it was useful to repeat the semantic tags and
 ![week2](task_html_css_intro/coursera-2-week.png)
 </details>
 
-### _CodeCademy Learn HTML&CSS_
+### CodeCademy Learn HTML&CSS
 <details><summary>Learn HTML&CSS</summary>
 
 ![week1](task_html_css_intro/CodeCademy_IntroHTML%26CSS.png)
