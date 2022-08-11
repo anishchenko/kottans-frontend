@@ -7,7 +7,7 @@
 
 ## Front-End Basic
 - [X] 1. [Intro to HTML & CSS](#1-intro-to-html-and-css)
-- [ ] 2. Responsive Web Design
+- [X] 2. [Responsive Web Design](#2-responsive-web-design)
 - [ ] 3. HTML & CSS Practice
 - [ ] 4. JavaScipt Basics
 - [ ] 5. Document Object Model 
@@ -115,4 +115,18 @@ I already knew all the topics, but it was useful to repeat the semantic tags and
 <details><summary>Learn HTML&CSS</summary>
 
 ![week1](task_html_css_intro/CodeCademy_IntroHTML%26CSS.png)
+</details>
+
+### **2. Responsive Web Design**
+
+Flexboxes and grids are very interesting and useful topics to use in the project, but in my opinion, these topics are not fully revealed in these two games. I think that I need more practice to better understand them and implement them in the project without problems
+
+<details><summary>Flexbox froggy</summary>
+
+![flexbox froggy](task_responsive_web_design/flexbox-froggy.png)
+</details>
+
+<details><summary>grid garden</summary>
+
+![grid garden](task_responsive_web_design/grid-garden.png)
 </details>
