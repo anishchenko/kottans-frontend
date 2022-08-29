@@ -8,7 +8,7 @@
 ## Front-End Basic
 - [X] 1. [Intro to HTML & CSS](#1-intro-to-html-and-css)
 - [X] 2. [Responsive Web Design](#2-responsive-web-design)
-- [ ] 3. HTML & CSS Practice
+- [X] 3. [HTML & CSS Practice](#3-html--css-practice)
 - [ ] 4. JavaScipt Basics
 - [ ] 5. Document Object Model 
 
@@ -130,3 +130,9 @@ Flexboxes and grids are very interesting and useful topics to use in the project
 
 ![grid garden](task_responsive_web_design/grid-garden.png)
 </details>
+
+### 3. HTML & CSS Practice
+[Demo](https://anishchenko.github.io/Html-Css-Popup-Task)
+[Repo](https://github.com/anishchenko/Html-Css-Popup-Task)
+
+This task turned out to be **more difficult** than I thought before its implementation. but it gave me more practice with flexboxes, grids and responsive design
