@@ -132,7 +132,7 @@ Flexboxes and grids are very interesting and useful topics to use in the project
 </details>
 
 ### 3. HTML & CSS Practice
-[Demo](https://anishchenko.github.io/Html-Css-Popup-Task)
+[Demo](https://anishchenko.github.io/Html-Css-Popup-Task)  
 [Repo](https://github.com/anishchenko/Html-Css-Popup-Task)
 
 This task turned out to be **more difficult** than I thought before its implementation. but it gave me more practice with flexboxes, grids and responsive design
